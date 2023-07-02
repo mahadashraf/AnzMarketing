@@ -1,0 +1,38 @@
+[
+  {
+    "name": "DHA Defence",
+    "price": "8.5 Crore",
+    "detail": "DHA defence phase 2 Near Main GT Road Islamabad",
+    "image": "./house1.jpeg"
+  },
+  {
+    "name": "Silver City",
+    "price": "2.95 Crore",
+    "detail": "Silver City AbuBaker Block Road Block E Islamabad",
+    "image": "./house2.jpeg"
+  },
+  {
+    "name": "Metro City",
+    "price": "2.32 Crore",
+    "detail": "Metro City Chanab Road Near Shah Allah Ditta",
+    "image": "./house3.jpeg"
+  },
+  {
+    "name": "Zaraj Housing Scheme",
+    "price": "4.85 Crore",
+    "detail": "Zaraj Housing Society Zone 5 on GT Road",
+    "image": "./house4.jpeg"
+  },
+  {
+    "name": "Park View City",
+    "price": "2.6 Crore",
+    "detail": "Park View City Near Rawal Lake Islamabad",
+    "image": "./house5.jpeg"
+  },
+  {
+    "name": "Taj Residecnia",
+    "price": "2.85 Crore",
+    "detail": "Taj Residecia Adjacent CDA Sector I-14 I-15 Rawalpindi",
+    "image": "./house6.jpeg"
+  }
+]
